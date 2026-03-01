@@ -1,0 +1,14 @@
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\bin\Debug\net8.0\CodacLogistics.exe
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\bin\Debug\net8.0\CodacLogistics.deps.json
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\bin\Debug\net8.0\CodacLogistics.runtimeconfig.json
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\bin\Debug\net8.0\CodacLogistics.dll
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\bin\Debug\net8.0\CodacLogistics.pdb
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\CodacLogistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\CodacLogistics.AssemblyInfoInputs.cache
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\CodacLogistics.AssemblyInfo.cs
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\CodacLogistics.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\CodacLogistics.dll
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\refint\CodacLogistics.dll
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\CodacLogistics.pdb
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\CodacLogistics.genruntimeconfig.cache
+C:\Users\Administrator\Prelim Activity 1\CodacLogistics\obj\Debug\net8.0\ref\CodacLogistics.dll
