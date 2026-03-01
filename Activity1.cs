@@ -1,20 +1,10 @@
-/*
- * Codac Logistics - Fuel & Delivery Auditor
- * Created by: Justin Louise Neypes
- * Description: A console application to track driver expenses, validate distance, 
- * and calculate fuel efficiency over a 5-day work week.
- */
-
 using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // ==========================================
-        // Task 1: Driver Profile & Distance Validation
-        // ==========================================
-        
+     
         // Data Type: string for names
         Console.Write("Enter Driver's Full Name: ");
         string driverName = Console.ReadLine();
@@ -51,10 +41,7 @@ class Program
             }
         }
 
-        // ==========================================
-        // Task 2: Fuel Expense Tracking
-        // ==========================================
-
+       
         // Data Structure: 1D Array of decimal for 5 days
         decimal[] fuelExpenses = new decimal[5];
         decimal totalFuelSpent = 0m;
@@ -73,9 +60,7 @@ class Program
             totalFuelSpent += fuelExpenses[i];
         }
 
-        // ==========================================
-        // Task 3: Performance Analysis
-        // ==========================================
+     
 
         // Calculate Average Daily Fuel Expense
         decimal averageFuel = totalFuelSpent / 5;
@@ -102,10 +87,7 @@ class Program
         // Determine Budget Status (Boolean check)
         bool underBudget = totalFuelSpent <= weeklyBudget;
 
-        // ==========================================
-        // Task 4: The Audit Report
-        // ==========================================
-
+       
         Console.WriteLine("\n" + new string('=', 40));
         Console.WriteLine("       CODAC LOGISTICS AUDIT REPORT");
         Console.WriteLine(new string('=', 40));
