@@ -1,0 +1,15 @@
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\bin\Debug\net8.0\GreenTransitFleet.exe
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\bin\Debug\net8.0\GreenTransitFleet.deps.json
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\bin\Debug\net8.0\GreenTransitFleet.runtimeconfig.json
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\bin\Debug\net8.0\GreenTransitFleet.dll
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\bin\Debug\net8.0\GreenTransitFleet.pdb
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.AssemblyInfoInputs.cache
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.AssemblyInfo.cs
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.sourcelink.json
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.dll
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\refint\GreenTransitFleet.dll
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.pdb
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\GreenTransitFleet.genruntimeconfig.cache
+C:\Users\Administrator\Prelim Activity 1\GreenTransitFleet\obj\Debug\net8.0\ref\GreenTransitFleet.dll
